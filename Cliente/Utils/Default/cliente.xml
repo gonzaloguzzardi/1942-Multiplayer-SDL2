@@ -1,0 +1,38 @@
+<Cliente>
+	<logger>
+		<debug>True</debug>
+		<warning>True</warning>
+		<error>True</error>
+	</logger>
+	<conexion>
+		<IP>127.0.0.1</IP>
+		<puerto>51757</puerto>
+	</conexion>
+	<mensajes>
+		<mensaje>
+			<id>Mensaje1</id>
+			<tipo> INT </tipo>
+			<valor> 10 </valor>
+		</mensaje>
+		<mensaje>
+			<id>Mensaje2</id>
+			<tipo> INT </tipo>
+			<valor> 015 </valor>
+		</mensaje>
+		<mensaje>
+			<id>Mensaje3</id>
+			<tipo> String </tipo>
+			<valor> hola mundo </valor>
+		</mensaje>
+		<mensaje>
+			<id>Mensaje4</id>
+			<tipo> Double </tipo>
+			<valor> 14.451826 </valor>
+		</mensaje>
+		<mensaje>
+			<id>Mensaje5</id>
+			<tipo> Char </tipo>
+			<valor> $ </valor>
+		</mensaje>
+	</mensajes>
+</Cliente>

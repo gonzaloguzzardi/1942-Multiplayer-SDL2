@@ -1,0 +1,9 @@
+<servidor>
+	<logger>
+		<debug>True</debug>
+		<warning>True</warning>
+		<error>True</error>
+	</logger>
+	<CantidadMaximaClientes>2</CantidadMaximaClientes>
+	<puerto>51757</puerto>
+</servidor>

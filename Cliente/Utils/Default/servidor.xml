@@ -1,0 +1,4 @@
+<servidor>
+	<CantidadMaximaClientes>7</CantidadMaximaClientes>
+	<puerto>51575</puerto>
+</servidor>
